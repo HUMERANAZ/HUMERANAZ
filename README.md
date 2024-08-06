@@ -12,6 +12,7 @@ Email: humeranaz911@gmail.com
 🌱 I’m currently learning Data Science, Deep Learning, end-to-end projects, and Databricks.
 
 👯 I’m looking to collaborate on Data-Driven Projects and data-related Jobs.
+
 💬 Talk to me about Python, Machine Learning, SQL, Freelancing opportunities, Open Source, NLP, Deep Learning, Statistics, and Mathematics.
 
 😄 Words that describe me - Passionate, Self-motivated, Focused, multitasking, hardworking & curious.
